@@ -1,0 +1,97 @@
+body {
+    text-align: center;
+    justify-content: center;
+    background-color: floralwhite;
+}
+
+h1 {
+    text-decoration: underline;
+    text-decoration-color: aquamarine;
+}
+
+table {
+    background-color: white;
+    border: black 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tr {
+    border: black 1px solid;
+}
+
+td {
+    border: black 1px solid;
+}
+
+.titulo {
+    background-color: lightcyan;
+}
+
+.H-D {
+    background-color: gainsboro;
+}
+
+.H-D:hover {
+    color: darkblue;
+}
+
+.Pro {
+    background-color: peachpuff;
+}
+
+.Pro:hover {
+    color: darkorange;
+}
+
+.BDA {
+    background-color: darkseagreen;
+}
+
+.BDA:hover {
+    color: green;
+}
+
+.Ang {
+    background-color: plum;
+}
+
+.Ang:hover {
+    color: rebeccapurple;
+}
+
+.SI {
+    background-color: lightgoldenrodyellow;
+}
+
+.SI:hover {
+    color: yellow;
+}
+
+.ED {
+    background-color: yellowgreen;
+}
+
+.ED:hover {
+    color: darkgreen;
+}
+
+.LM {
+    background-color: skyblue;
+}
+
+.LM:hover {
+    color: blue;
+}
+
+.FOL {
+    background-color: cadetblue;
+}
+
+.FOL:hover {
+    color: darkcyan;
+}
+
+.Pati {
+    background-color: lightcyan;
+}
